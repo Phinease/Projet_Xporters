@@ -1,5 +1,5 @@
 # INFO232 - Mini-projet at University Paris-Saclay
-
+Student: Shuangrui CHEN
 Professor: Isabelle Guyon
 
 
